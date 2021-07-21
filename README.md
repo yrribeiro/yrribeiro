@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yanka Ribeiro 👋 <a href="https://www.linkedin.com/in/yanka-ribeiro/">
-        <img src="https://img.shields.io/badge/-linkedin-blue"></h1>
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white"/></h1>
 
  </a>
  
