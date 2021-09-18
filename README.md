@@ -4,8 +4,8 @@
  </a>
  
 - 🎓 Pursuing my undergraduation in Computer Science at Federal University of Alagoas
-- 💼 I’m currently working at <b>EDGE</b>, as a Data Science Intern
-- 👨‍💻 Enthusiastic about AI, trying to find my place inside this huuuge topic.
+- 💼 I’m currently working at <b>EDGE</b>, as a Data Science Trainee. Member of EDGE's NLP Team
+- 👨‍💻 Enthusiastic about AI.
 - 🤝 I've been envolved in ML, NLP and web development projects
 - ❤ Other main interests: Physics, 3D Modelling, Drawings, Computer simulations, Graphic Design, Human Languages
 
