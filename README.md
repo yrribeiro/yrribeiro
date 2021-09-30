@@ -6,7 +6,7 @@
 
 <a><a href="https://www.linkedin.com/in/yanka-ribeiro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white"/></a>
 <p>
-Undergraduate student at <b>UFAL</b><br/> (Computer Science)<br>
+Undergraduate student at <b>UFAL</b> (Computer Science)<br>
 Trainee Data Scientist & Member of <b>EDGE</b>'s NLP Team<br>
 Undergraduate researcher in <b>Applied AI</b> field.</b><br>
 Enthusiastic about Astronomy and Computacional Modelling
