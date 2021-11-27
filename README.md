@@ -2,12 +2,12 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrribeiro&theme=dark&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
 
-### Yanka Ribeiro
+### yanka ribeiro
 
 <a><a href="https://www.linkedin.com/in/yanka-ribeiro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white"/></a>
 <p>
-🎓 Undergraduate student at <b>UFAL</b> (Computer Science)<br>
-💼 Trainee Data Scientist & Member of <b>EDGE</b>'s NLP Team<br>
-👨‍💻 Undergraduate researcher in <b>Applied AI</b> field.</b><br>
-❤ Enthusiastic about Astronomy and Computacional Modelling
+🎓 undergraduate student at <b>ufal</b> ~ computer science<br>
+💼 trainee data scientist & member of <b>edge</b>'s nlp team<br>
+👨‍💻 undergraduate researcher in <b>applied ai</b> field.</b><br>
+❤ enthusiastic about astronomy and computacional modelling
 </p>
