@@ -7,7 +7,7 @@
 <a><a href="https://www.linkedin.com/in/yanka-ribeiro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white"/></a>
 <p>
 🎓 undergraduate student at <b>ufal</b> ~ computer science<br>
-💼 trainee data scientist & member of <b>edge</b>'s nlp team<br>
+💼 software developer at <b>CI&T</b>
 👨‍💻 undergraduate researcher in <b>applied ai</b> field.</b><br>
-❤ enthusiastic about astronomy and computacional modelling
+❤ enthusiastic about biology and computacional modelling
 </p>
