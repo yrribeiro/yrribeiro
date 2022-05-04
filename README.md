@@ -10,5 +10,5 @@
 💼 fullstack developer [in training] at <b>IBM</b><br>
 👨‍💻 undergraduate researcher in <b>applied ai</b> field.</b><br>
 ❤ enthusiastic about biology and computacional modelling<br>
-🤓 curiosity: low-level programming languages is my cup of tea 
+🤓 curiosity: low-level programming languages are my cup of tea 
 </p>
