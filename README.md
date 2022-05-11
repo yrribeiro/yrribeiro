@@ -9,6 +9,6 @@
 🎓 undergraduate student at <b>ufal</b> ~ computer science<br>
 💼 fullstack developer [in training] at <b>IBM</b><br>
 👨‍💻 undergraduate researcher in <b>applied ai</b> field.</b><br>
-❤ enthusiastic about biology and computacional modelling<br>
+❤ enthusiastic about computational biology and arts in general<br>
 🤓 curiosity: low-level programming languages are my cup of tea 
 </p>
