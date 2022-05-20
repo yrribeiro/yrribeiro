@@ -7,7 +7,7 @@
 <a><a href="https://www.linkedin.com/in/yanka-ribeiro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white"/></a>
 <p>
 🎓 undergraduate student at <b>ufal</b> ~ computer science<br>
-💼 fullstack developer [in training] at <b>IBM</b><br>
+💼 data scientist intern at <b>ibm</b><br>
 👨‍💻 undergraduate researcher in <b>applied ai</b> field.</b><br>
 ❤ enthusiastic about computational biology and arts in general<br>
 🤓 curiosity: low-level programming languages are my cup of tea 
