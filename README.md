@@ -10,5 +10,4 @@
 💼 data scientist intern at <b>ibm</b><br>
 👨‍💻 undergraduate researcher in <b>biomedical informatics</b> field.</b><br>
 ❤ enthusiastic about computational biology and arts in general<br>
-🤓 curiosity: low-level programming languages are my cup of tea 
 </p>
