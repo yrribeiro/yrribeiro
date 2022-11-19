@@ -23,4 +23,4 @@
 ![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=whitee)
 ![image](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-... but don't get attached to those badges! there's nothing I can't learn
+... ok, got tired, in summary: there's nothing I can't learn
