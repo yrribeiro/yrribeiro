@@ -5,7 +5,6 @@
 <p>
   
 🎓 undergraduate student at <b>ufal</b> ~ bsc. computer science<br>
-💼 data scientist intern at <b>ibm brazil</b><br>
 👨‍💻 undergraduate researcher in <b>biomedical informatics</b> field.</b><br>
 ❤ enthusiastic about computational biology and arts in general<br>
 </p>
