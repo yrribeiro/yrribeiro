@@ -6,7 +6,8 @@
   
 🎓 undergraduate student at <b>ufal</b> ~ bsc. computer science<br>
 👨‍💻 undergraduate researcher in <b>biomedical informatics</b> field.</b><br>
-❤ enthusiastic about computational biology and arts in general<br>
+💼 2~2.5 years experience working as a data scientist (nlp and ml focused) in the industry<br>
+❤ enthusiastic about computational biology and the mistery of existence<br>
 </p>
 
 ### tech stack & productivity tools
