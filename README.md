@@ -7,5 +7,5 @@
 🎓 undergraduate student at <b>ufal</b> ~ bsc. computer science<br>
 👨‍💻 undergraduate researcher in <b>biomedical informatics</b> field. experienced at applying computer vision and supervised algorithms in ophtalmology problems</b><br> 
 💼 1.5~2 years experience working as a data scientist (ml engineering focused) in the industry<br>
-❤ enthusiastic about computational biology and the mistery of existence<br>
+❤ enthusiastic about computer graphics, deep learning and life sciences informatics<br>
 </p>
