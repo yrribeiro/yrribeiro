@@ -2,6 +2,7 @@
 
 # yanka ribeiro
 <a><a href="https://www.linkedin.com/in/yanka-ribeiro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white"/></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yrribeiro&label=Profile%20views&color=0e75b6&style=flat" alt="yrribeiro" /> </p>
 <p>
   
 🎓 undergraduate student at <b>ufal</b> ~ bsc. computer science<br>
