@@ -7,5 +7,5 @@
 🎓 bsc. computer science @ federal university of alagoas<br>
 👨‍💻 researcher in <b>medical informatics</b>. experienced at applying computer vision and supervised algorithms in ophtalmology</b><br> 
 💼 2 years experience working as a data scientist (ml engineering focused) in the industry<br>
-❤ enthusiastic about computer graphics, deep learning and life sciences informatics<br> (and foreign language learning 🤓)
+❤ enthusiastic about computer graphics, deep learning and precision medicine<br> (and foreign language learning 🤓)
 </p>
