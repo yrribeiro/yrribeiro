@@ -7,5 +7,5 @@
 🎓 bsc. computer science, federal university of alagoas<br>
 👨‍💻 researcher in <b>computational life sciences</b>. experienced at applying computer vision and supervised algorithms in ophtalmology and microbiology</b><br> 
 💼 +3 years working as a data scientist (ml engineering focused) in both industry and academia<br>
-❤ enthusiastic about computer graphics, deep learning and precision medicine<br> (and foreign language learning 🤓)
+❤ enthusiastic about a lot of random stuff: computer graphics, ocultism, animation and character design, stoicism, cybersecurity, polyglotism... 🤓
 </p>
