@@ -5,7 +5,7 @@
 <p>
   
 🎓 msc. computational modeling and simulation, technical university of dresden [bsc. computer science, ufal/brazil] <br>
-👨‍💻 researcher in <b>computational life sciences</b>. experienced at applying computer vision and supervised algorithms in ophtalmology and microbiology</b><br> 
-💼 +3 years working as a ml engineer in both industry and academia<br>
+👨‍💻 researcher in <b>visual computing</b>. experienced at applying computer vision and supervised algorithms in ophtalmology and microbiology</b><br> 
+💼 since 2021 gaining experience working as a ml engineer in both industry and academia<br>
 ❤ enthusiastic about a lot of random stuff: computer graphics, ocultism, animation and character design, stoicism, cybersecurity, polyglotism... 🤓
 </p>
